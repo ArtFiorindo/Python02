@@ -1,5 +1,6 @@
+num = 5
 i = 1
 while(i <= 10):
-    r = 5 * i
-    print(f'{5} x {i} = {r}')
+    r = num * i
+    print(f'{num} x {i} = {r}')
     i = i + 1
